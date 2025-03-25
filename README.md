@@ -56,10 +56,9 @@ In this phase, we'll document the entire project and prepare it for submission
 
 
 ## Authors
-
+- [Kumaragurubaran](https://www.github.com/Kumaragurubaran17)
 - [Abdul Kadhar](https://www.github.com/abdulkadhar128)
 - [Kabelan](https://www.github.com/Kabelan8)
-- [Kumaragurubaran](https://www.github.com/Kumaragurubaran17)
 - [Pavan Kumar](https://www.github.com/Pavan-Kumarr)
 - [Vaheeth](https://www.github.com/Vaheeth8664)
 
